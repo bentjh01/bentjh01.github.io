@@ -9,13 +9,19 @@
 
 ## Content
 ### About me
+- Casual and light introduction to myself. 
+- Hey there! I'm Ben. 
 - 
 ### Haptics Mechatronics 
-- 
+- Voice Coil Driver
+- Haptic Feedback to touch.
 ### Delivery Robot
-- 
+- Control Theory
+- PID Control
+- MPC 
+- casadi
 ### ASME-NTU
-- 
+- Small Student Organisation
 #### President
 - 
 #### Assistant Secretary
@@ -23,4 +29,6 @@
 #### Industrial Liaison Officer
 - Industry Sharing with Acceleron
 ### f1tenth
+- ICRA '24
+- 
 ### Debate
