@@ -12,6 +12,13 @@
 - Casual and light introduction to myself. 
 - Hey there! I'm Ben. 
 - 
+### Work Experience
+- Continental
+- Fabrica
+- Electronics troubleshooting
+- automatic tests for load cells and motor controllers
+- Battery management system
+- life time testing
 ### Haptics Mechatronics 
 - Voice Coil Driver
 - Haptic Feedback to touch.
