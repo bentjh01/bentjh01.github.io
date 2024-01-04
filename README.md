@@ -13,7 +13,12 @@
 - Hey there! I'm Ben. 
 - 
 ### Work Experience
-- Continental
+> Continental Automotive
+>> Mechatronics Intern
+>>> Jun '22 - Dec '22
+>>> LabView, Circuit Python, Adafruit M4 Grand Central
+>> 
+
 - Fabrica
 - Electronics troubleshooting
 - automatic tests for load cells and motor controllers
