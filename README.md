@@ -13,20 +13,26 @@
 - Hey there! I'm Ben. 
 - 
 ### Work Experience
+
 > Continental Automotive
->> Mechatronics Intern
+>> Mechatronics Engineering Intern
 >>> Jun '22 - Dec '22
 >>> LabView, Circuit Python, Adafruit M4 Grand Central
->> 
+>> Assisted in design, assembling, and coding a voice coil motor driver to actuate custom haptics signals from CSV files. 
+>> Assited in design of semiconductor test rig to identify material properties. 
+>> Coordinated and organised Intern Engagement Day that hosted 28 participants and received overall positive feedback. 
+
+> Continental Automotive
+>> Robotics Machine Learning Engineering Intern
+>> Jan '23 - Jul '23
+
+
 
 - Fabrica
 - Electronics troubleshooting
 - automatic tests for load cells and motor controllers
 - Battery management system
 - life time testing
-### Haptics Mechatronics 
-- Voice Coil Driver
-- Haptic Feedback to touch.
 ### Delivery Robot
 - Control Theory
 - PID Control
